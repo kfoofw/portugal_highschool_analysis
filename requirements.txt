@@ -1,0 +1,14 @@
+entrypoints
+jsonschema
+matplotlib
+numpy
+pandas
+six
+toolz
+typing
+sklearn
+ipython
+altair==3.0.0
+ipywidgets==7.5
+vega_datasets
+pandas_profiling
